@@ -340,7 +340,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f7001bd427f7da42b08e603c8298eac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BuildingTile
-  stepSound: {fileID: 8300000, guid: 6777e1cd9d265974ca1f0627023b869e, type: 3}
+  stepSound: {fileID: 8300000, guid: eb354d655d1feff4cbc2291bff40dad3, type: 3}
 --- !u!1 &1442172922
 GameObject:
   m_ObjectHideFlags: 0
