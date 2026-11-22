@@ -2,14 +2,15 @@ using UnityEngine;
 
 public class BuildingTile : MonoBehaviour
 {
-    public AudioClip AudioClip;
-    void Start()
+    public AudioClip stepSound;
+
+    public void Start()
     {
-        
+        PlayStepSound();
     }
 
-    void Update()
+    private void PlayStepSound()
     {
-        
+        AudioManager.Instance.PlaySound(gameObject, stepSound, 0.2f);
     }
 }
