@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="467a6839-69f1-4b99-87af-436f4839a646" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Robert-s-Wormholes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Robert-s-Wormholes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TitleScreen.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TitleScreen.cs.meta" beforeDir="false" />
-    </list>
+    <list default="true" id="467a6839-69f1-4b99-87af-436f4839a646" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -95,7 +93,7 @@
       <updated>1795225493190</updated>
       <workItem from="1795225494325" duration="672000" />
       <workItem from="1795229195840" duration="3088000" />
-      <workItem from="1795305866195" duration="78000" />
+      <workItem from="1795305866195" duration="237000" />
     </task>
     <servers />
   </component>
