@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="467a6839-69f1-4b99-87af-436f4839a646" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Robert-s-Wormholes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Robert-s-Wormholes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Managers/AudioManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Managers/AudioManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Prefabs/BuildingTile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Prefabs/BuildingTile.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Prefabs/BuildingTile.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Prefabs/BuildingTile.cs.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +102,8 @@
       <workItem from="1795305866195" duration="237000" />
       <workItem from="1795306122340" duration="3617000" />
       <workItem from="1795309794296" duration="334000" />
+      <workItem from="1795375201536" duration="49000" />
+      <workItem from="1795375312710" duration="183000" />
     </task>
     <servers />
   </component>

@@ -1,14 +1,10 @@
 using System;
 using UnityEngine;
 
-public class BuildingTile : MonoBehaviour
+public class Wall : MonoBehaviour
 {
     public AudioClip stepSound;
-
-    private void Start()
-    {
-        AudioManager.Instance.PlayMusic(stepSound);
-    }
+    
 
     private void PlayStepSound()
     {
